@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Foco, força e fé</h1>
+  return <h1>Foco, força e fé 3</h1>;
 }
 
 export default Home;
